@@ -21,4 +21,4 @@ python squares_map.py
 python prime_generator.py
 python pipeline.py
 python memoize.py
-```bash
+```
